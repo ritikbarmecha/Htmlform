@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: aqua;
+}
+
+.idk{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    padding: 30px;
+}
+
+form{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+label,input,select{
+margin: 5px;
+background-color: aliceblue;
+}
+.xcf{
+    padding: 7px;
+    border-radius: 5px;
+}
